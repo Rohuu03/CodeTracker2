@@ -1,0 +1,6 @@
+{
+  "name": "CodeTrack AI",
+  "description": "AI-powered coding profile analyzer, competitive programming coach, and interactive algorithm animator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
